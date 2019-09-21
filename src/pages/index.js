@@ -1,5 +1,6 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
+import ImageMasonry from "react-image-masonry"
 
 import DefaultLayout from "../layouts/default"
 import Image from "../components/image"
@@ -38,6 +39,18 @@ const IndexPage = ({ data }) => {
       <SEO title="Home" />
       <section>
         <ul>{postsListContainer}</ul>
+      </section>
+      <section>
+      <ImageMasonry
+        imageUrls={[
+          'https://i.imgur.com/i1w1bzj.jpg',
+          'https://i.imgur.com/B8xS1Rq.jpg',
+          'https://i.imgur.com/oXXcldv.jpg',
+          'https://i.imgur.com/RKfqG8D.jpg',
+          'https://i.imgur.com/ZKzqrHw.jpg'
+          ]}
+        numCols={2}
+      />
       </section>
     </DefaultLayout>
   )
