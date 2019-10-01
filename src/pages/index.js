@@ -37,6 +37,7 @@ const IndexPage = ({ data }) => {
   return (
     <DefaultLayout>
       <SEO title="Home" />
+      <section> 👋🏼 Hi! I'm Sofia. Frontend Developer and UI Designer driven by curiosity.</section>
       <section>
         <ul>{postsListContainer}</ul>
       </section>

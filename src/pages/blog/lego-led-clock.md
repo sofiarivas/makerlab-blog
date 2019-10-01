@@ -9,7 +9,7 @@ So I wanted a new clock build out of Legos and with a very cool LED display..so 
 
 ## Here is how I build it...🛠
 #### 1. Materials
-Here you will find all the materiales you need for this project:
+Here you will find all the materials you need for this project:
 
 * Arduino Nano
 * 9V battery
