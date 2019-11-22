@@ -5,7 +5,7 @@ date: 2019-09-20
 
 So I wanted a new clock build out of Legos and with a very cool LED display..so I made it!
 
-![](https://i.imgur.com/oXXcldv.jpg)
+![](https://storage.cloud.google.com/maker-blog-assets/lego-led-clock/clock-WIP.jpg)
 
 ## Here is how I build it...🛠
 #### 1. Materials
@@ -23,7 +23,7 @@ Here you will find all the materials you need for this project:
 
 #### 2. Schematics
 
-![](https://i.imgur.com/RKfqG8D.jpg)
+![](https://storage.cloud.google.com/maker-blog-assets/lego-led-clock/breadboard.jpg)
 
 #### 3. Code
 

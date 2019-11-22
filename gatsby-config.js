@@ -3,7 +3,7 @@ module.exports = {
     title: `Sofia Rivas`,
     description: `My own personal blog`,
     author: `@sofiarivas`,
-    avatar: `https://avatars2.githubusercontent.com/u/13956453?s=460&v=4`,
+    avatar: `https://storage.cloud.google.com/maker-blog-assets/avatar.png`,
     siteUrl: `https://the-plain-gatsby.netlify.com`,
   },
   plugins: [

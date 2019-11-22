@@ -44,11 +44,11 @@ const IndexPage = ({ data }) => {
       <section>
       <ImageMasonry
         imageUrls={[
-          'https://i.imgur.com/i1w1bzj.jpg',
-          'https://i.imgur.com/B8xS1Rq.jpg',
-          'https://i.imgur.com/oXXcldv.jpg',
-          'https://i.imgur.com/RKfqG8D.jpg',
-          'https://i.imgur.com/ZKzqrHw.jpg'
+          'https://storage.cloud.google.com/maker-blog-assets/maker-cat.jpg',
+          'https://storage.cloud.google.com/maker-blog-assets/maker-topi.jpg',
+          'https://storage.cloud.google.com/maker-blog-assets/lego-led-clock/clock-WIP.jpg',
+          'https://storage.cloud.google.com/maker-blog-assets/lego-led-clock/breadboard.jpg',
+          'https://storage.cloud.google.com/maker-blog-assets/lego-led-clock/lego-clock.jpg'
           ]}
         numCols={2}
       />
