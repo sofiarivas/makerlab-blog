@@ -1,28 +1,18 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  The Plain Gatsby
-</h1>
 
-A simple minimalist Gatsby starter for your blog. [Demo](https://the-plain-gatsby.netlify.com/).
 
-Inspired by [Heiswayi Nrird](https://github.com/heiswayi)'s [the-plain](https://github.com/heiswayi/the-plain).
 
-![home-page-screenshot](https://i.postimg.cc/7YPxnrJM/Screenshot-2019-05-25-at-18-33-36.png)
+# Hi there! 👋 
+#### I'm Sofia and this is my personal blog repo 👩‍💻
 
-![about-page-screenshot](https://i.postimg.cc/SK9qxyHq/Screenshot-2019-05-25-at-18-34-12.png)
+## Wonder how I build this website?
 
-![blog-page-screenshot](https://i.postimg.cc/CxzS9CNR/Screenshot-2019-05-25-at-18-34-00.png)
+I used a simple Gatsby starter called the [the plain gatsby](https://the-plain-gatsby.netlify.com/). In order to build it there are some very simple three steps: `ceate`, `start` and just get to the `editing` part.
 
 ## Quick Start 🚀
 
 1.  **Create a Gatsby site.**
 
-    Use the Gatsby CLI to create a new site, specifying the default starter.
+    If you want to go for the same approach as me. Just use the Gatsby CLI to create a new site, specifying the default starter, in this case `the-plain-gatsby`.
 
     ```sh
     # create a new Gatsby site using the-plain-gatsby starter
