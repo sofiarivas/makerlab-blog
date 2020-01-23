@@ -1,13 +1,14 @@
 ---
-title: Lego LED matrix clock
+title: "Lego LED matrix clock"
 date: 2019-09-20
+tag: "topi"
 ---
 
-So I wanted a new clock build out of Legos and with a very cool LED display..so I made it!
+I wanted a new clock made out of Legos and with a very cool LED display..so I made this using some legos, an arduino, some jumper cables and a led matrix.
 
-![](https://storage.cloud.google.com/maker-blog-assets/lego-led-clock/clock-WIP.jpg)
+![](https://storage.googleapis.com/maker-blog-assets/lego-led-clock/clock-WIP.jpg)
 
-## Here is how I build it...🛠
+## Here is how I built it...🛠
 #### 1. Materials
 Here you will find all the materials you need for this project:
 
@@ -23,7 +24,7 @@ Here you will find all the materials you need for this project:
 
 #### 2. Schematics
 
-![](https://storage.cloud.google.com/maker-blog-assets/lego-led-clock/breadboard.jpg)
+![](https://storage.googleapis.com/maker-blog-assets/lego-led-clock/breadboard.jpg)
 
 #### 3. Code
 
@@ -32,5 +33,5 @@ var s = "Placeholder";
 alert(s);
 ```
 
-
 [^1]: LED Matrix Clock instructable - [Take me to it!](https://www.instructables.com/id/Arduino-Nano-Mini-LED-Matrix-Clock/)
+

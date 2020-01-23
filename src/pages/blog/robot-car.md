@@ -18,13 +18,13 @@ An Obstacle Avoiding Robot is an intelligent device that can automatically sense
 
 Well, the robot has two servo motors that will drive the robot around powered by a 9V battery. As far as the **"Avoiding"** feature..we will use an Ultrasonic Sensor which will determine if the robot should stop and reroute.
 
-![](https://storage.cloud.google.com/maker-blog-assets/avoiding-robot/robot.jpg)
+![](https://storage.googleapis.com/maker-blog-assets/avoiding-robot/robot.jpg)
 
 
 #### What is a ultrasonic sensor?
 An Ultrasonic sensor works by emitting sound waves at a frequency too high for humans to hear. The sensor will emit this sound and then wait for the sound to be reflected back, calculating distance based on the time required. Based on this distance we can determine if the robot should stop and change direction.
 
-![](https://storage.cloud.google.com/maker-blog-assets/illustrations/ultrasonic-sensor.jpg)
+![](https://storage.googleapis.com/maker-blog-assets/illustrations/ultrasonic-sensor.jpg)
 
 ## Here is how I build it...🛠
 
