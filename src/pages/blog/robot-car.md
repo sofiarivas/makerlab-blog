@@ -1,5 +1,5 @@
 ---
-title: Obstacle Avoiding Robot using Arduino (WIP)
+title: '👉 Obstacle Avoiding Robot using Arduino (WIP)'
 date: 2019-09-19
 ---
 
