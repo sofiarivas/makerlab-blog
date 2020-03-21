@@ -36,8 +36,10 @@ const IndexPage = ({ data }) => {
   return (
     <DefaultLayout>
       <SEO title="Home" />
-      <section> 👋🏼 Hi! I'm Sofia. Frontend Developer and UI Designer driven by curiosity.</section>
+      
+      <section><h4>Who am I?</h4> 👋🏼 Hi! I'm <Link to="/about">Sofia.</Link> Frontend Developer and UI Designer driven by curiosity. Currently working as Software Engineer at <a href="https://www.wizeline.com/" target="_blank">@Wizeline</a></section>
       <section>
+        <h4>I like building stuff:</h4>
         <ul>{postsListContainer}</ul>
       </section>
       <section>
@@ -46,8 +48,9 @@ const IndexPage = ({ data }) => {
           'https://storage.googleapis.com/maker-blog-assets/maker-cat.jpg',
           'https://storage.googleapis.com/maker-blog-assets/maker-topi.jpg',
           'https://storage.googleapis.com/maker-blog-assets/lego-led-clock/clock-WIP.jpg',
+          'https://storage.googleapis.com/maker-blog-assets/avoiding-robot/robot.jpg',
           'https://storage.googleapis.com/maker-blog-assets/lego-led-clock/breadboard.jpg',
-          'https://storage.googleapis.com/maker-blog-assets/lego-led-clock/lego-clock.jpg'
+          'https://storage.googleapis.com/maker-blog-assets/lego-led-clock/lego-clock.jpg',
           ]}
         numCols={2}
       />

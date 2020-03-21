@@ -1,5 +1,5 @@
 ---
-title: Obstacle Avoiding Robot using Arduino
+title: Obstacle Avoiding Robot using Arduino (WIP)
 date: 2019-09-19
 ---
 
@@ -54,5 +54,3 @@ Coming soon..
 #### Resources:
 
 [^1]: [Ultrasonic sensor explained](https://www.arrow.com/en/research-and-events/articles/ultrasonic-sensors-how-they-work-and-how-to-use-them-with-arduino)
-
-[^2]: [Useful tutorial I followed]()

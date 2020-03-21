@@ -1,6 +1,6 @@
 ---
 title: "Lego LED matrix clock"
-date: 2019-09-20
+date: 2019-10-23
 tag: "topi"
 ---
 
@@ -41,6 +41,6 @@ If you run in to some issues with the actual time setting on your RTC module I u
 
 
 I hope you find this useful and inspiring 🛠
-I'm currently working on a 3D model of the actual clock case I build with Legos. Expect more on this soon. 
+**I'm currently working on a 3D model of the actual clock case I build with Legos. Expect more on this soon.**
 
 
