@@ -3,6 +3,8 @@ title: Obstacle Avoiding Robot using Arduino
 date: 2019-09-19
 ---
 
+![](https://storage.googleapis.com/maker-blog-assets/avoiding-robot/robot.jpg)
+
 #### This was my first attempt to start a more complex Arduino project and I chose an Obstacle Avoiding Robot
 
 When I started with Arduino I started with some very simple projects like blinking LEDs our coding a  _semaforo_🚦. These projects were very fun but this time I wanted to start everything from scratch..from choosing the idea to getting around electronics shops until I found the right pieces I needed and wanted for my robot.
@@ -18,7 +20,7 @@ An Obstacle Avoiding Robot is an intelligent device that can automatically sense
 
 Well, the robot has two servo motors that will drive the robot around powered by a 9V battery. As far as the **"Avoiding"** feature..we will use an Ultrasonic Sensor which will determine if the robot should stop and reroute.
 
-![](https://storage.googleapis.com/maker-blog-assets/avoiding-robot/robot.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zCfQLPOpKoc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 #### What is a ultrasonic sensor?

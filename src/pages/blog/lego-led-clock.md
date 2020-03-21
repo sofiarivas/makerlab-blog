@@ -4,28 +4,30 @@ date: 2019-09-20
 tag: "topi"
 ---
 
-I wanted a new clock made out of Legos and with a very cool LED display..so I made this using some legos, an arduino, some jumper cables and a led matrix.
+![](https://storage.googleapis.com/maker-blog-assets/lego-led-clock/lego-cisco.jpeg)
 
-![](https://storage.googleapis.com/maker-blog-assets/lego-led-clock/clock-WIP.jpg)
+I wanted a new clock made out of Legos and with a very cool LED display..so I made this using some Legos, an Arduino, some jumper cables and a LED matrix.
 
 ## Here is how I built it...🛠
 #### 1. Materials
 Here you will find all the materials you need for this project:
-
 * Arduino Nano
-* 9V battery
-* Two switches
-* Clock component
+* RTC Module DS3231
 * Four pieces LED Matrix
 * Small breadboard
 * Jumper cables
 * Soldering Iron
 * Tons of Legos...
 
+![](https://storage.googleapis.com/maker-blog-assets/lego-led-clock/clock-WIP.jpg)
+
 #### 2. Schematics
 
 ![](https://storage.googleapis.com/maker-blog-assets/lego-led-clock/breadboard.jpg)
 
+
+
+![](https://storage.googleapis.com/maker-blog-assets/lego-led-clock/fritzing.jpg)
 #### 3. Code
 
 ```javascript
