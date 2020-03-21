@@ -35,7 +35,7 @@ const IndexPage = ({ data }) => {
     .reverse()
   return (
     <DefaultLayout>
-      <SEO title="Home" />
+      <SEO title="Sofia Rivas - Driven by curiosity" />
       
       <section><h4>Who am I?</h4> 👋🏼 Hi! I'm <Link to="/about">Sofia.</Link> Frontend Developer and UI Designer driven by curiosity. Currently working as Software Engineer at <a href="https://www.wizeline.com/" target="_blank">@Wizeline</a></section>
       <section>

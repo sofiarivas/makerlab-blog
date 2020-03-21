@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Sofia Rivas`,
-    description: `My own personal blog`,
+    description: `👋🏼 Hi! I'm Sofia. Frontend Developer and UI Designer driven by curiosity.`,
     author: `@sofiarivas`,
     avatar: `https://storage.googleapis.com/maker-blog-assets/avatar.png`,
     siteUrl: `https://the-plain-gatsby.netlify.com`,
