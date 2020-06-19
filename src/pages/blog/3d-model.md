@@ -5,7 +5,7 @@ date: 2020-05-11
 
 #### I am working on a 3D model of the clock frame with Mecabricks. Here you can find an interactive version:
 
-<model-viewer id="lego-frame-model" src="https://storage.googleapis.com/maker-blog-assets/3d-model/clock-frame.glb" alt="A 3D model a Lego clock frame" camera-controls auto-rotate></model-viewer>
+<model-viewer id="lego-frame-model" src="https://modelviewer.dev/shared-assets/models/Astronaut.glb" alt="A 3D model a Lego clock frame" camera-controls auto-rotate ar></model-viewer>
 
 I wanted to build it because I am curious about having a record of the model I created. An easier way to share what I have built so someone else could do something similar.
 
