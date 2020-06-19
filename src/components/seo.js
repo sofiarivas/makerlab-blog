@@ -68,7 +68,11 @@ function SEO({ description, lang, meta, title }) {
           content: metaDescription,
         },
       ].concat(meta)}
-    />
+    >
+    <script type="module"
+      src="https://unpkg.com/@google/model-viewer@0.3.1/dist/model-viewer.js">
+    </script>
+    </Helmet>
   )
 }
 

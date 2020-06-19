@@ -45,6 +45,7 @@ const IndexPage = ({ data }) => {
       <section>
       <ImageMasonry
         imageUrls={[
+          'https://storage.googleapis.com/maker-blog-assets/3d-model/first-model.png',
           'https://storage.googleapis.com/maker-blog-assets/maker-cat.jpg',
           'https://storage.googleapis.com/maker-blog-assets/maker-topi.jpg',
           'https://storage.googleapis.com/maker-blog-assets/lego-led-clock/clock-WIP.jpg',

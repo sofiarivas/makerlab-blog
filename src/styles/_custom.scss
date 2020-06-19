@@ -1,0 +1,8 @@
+#lego-frame-model {
+  width: 100%; 
+  height: 250px; 
+  margin-bottom: 16px;
+  &:focus {
+    outline: none;
+  }
+}
