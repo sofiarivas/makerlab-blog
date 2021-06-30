@@ -1,6 +1,8 @@
 
 
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ce154f7d-ddd4-43d0-9cbd-4e862f353dbd/deploy-status)](https://app.netlify.com/sites/clever-raman-720d73/deploys)
+
 # Hi there! 👋 
 #### I'm Sofia and this is my personal blog repo 👩‍💻
 
