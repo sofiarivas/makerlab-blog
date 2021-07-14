@@ -42,12 +42,12 @@ const IndexPage = ({ data }) => {
         <h4>I like building stuff:</h4>
         <ul>{postsListContainer}</ul>
       </section>
-      <section class="home__social-container">
+      <section>
         <h4>Find me at:</h4>
-        <a className="home__social-link" href="https://www.linkedin.com/in/sofiarivas/" target="_blank">LinkedIn</a>
-        <a className="home__social-link" href="https://twitter.com/rivas_sm" target="_blank"> Twitter</a>
-        <a className="home__social-link" href="https://www.polywork.com/sofiarivas" target="_blank"> Polywork</a>
-        <a className="home__social-link" href="mailto:sofi.rivasm@gmail.com"> sofi.rivasm@gmail.com</a>
+        <a className="home__social-link" rel="noopener" href="https://www.linkedin.com/in/sofiarivas/" target="_blank">LinkedIn</a>
+        <a className="home__social-link" rel="noopener" href="https://twitter.com/rivas_sm" target="_blank"> Twitter</a>
+        <a className="home__social-link" rel="noopener" href="https://www.polywork.com/sofiarivas" target="_blank"> Polywork</a>
+        <a className="home__social-link" rel="noopener" href="mailto:sofi.rivasm@gmail.com"> sofi.rivasm@gmail.com</a>
       </section>
       <section>
       <ImageMasonry
