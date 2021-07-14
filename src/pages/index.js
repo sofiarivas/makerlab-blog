@@ -44,7 +44,7 @@ const IndexPage = ({ data }) => {
       </section>
       <section class="home__social-container">
         <h4>Find me at:</h4>
-        <a className="home__social-link" href="https://www.linkedin.com/in/sofiarivas/" target="_blank">Linkedin</a>
+        <a className="home__social-link" href="https://www.linkedin.com/in/sofiarivas/" target="_blank">LinkedIn</a>
         <a className="home__social-link" href="https://twitter.com/rivas_sm" target="_blank"> Twitter</a>
         <a className="home__social-link" href="https://www.polywork.com/sofiarivas" target="_blank"> Polywork</a>
         <a className="home__social-link" href="mailto:sofi.rivasm@gmail.com"> sofi.rivasm@gmail.com</a>
