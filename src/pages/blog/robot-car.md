@@ -3,7 +3,7 @@ title: '👉 Obstacle Avoiding Robot using Arduino'
 date: 2019-09-19
 ---
 
-![](https://storage.googleapis.com/maker-blog-assets/avoiding-robot/robot.jpg)
+![](https://res.cloudinary.com/sofia-rivas/image/upload/v1626315141/Blog/robot_wlp0u0.jpg)
 
 #### This was my first attempt to start a more complex Arduino project and I chose an Obstacle Avoiding Robot
 
