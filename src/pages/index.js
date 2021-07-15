@@ -52,13 +52,13 @@ const IndexPage = ({ data }) => {
       <section>
       <ImageMasonry
         imageUrls={[
-          'https://storage.googleapis.com/maker-blog-assets/3d-model/first-model.png',
-          'https://storage.googleapis.com/maker-blog-assets/maker-cat.jpg',
-          'https://storage.googleapis.com/maker-blog-assets/maker-topi.jpg',
-          'https://storage.googleapis.com/maker-blog-assets/lego-led-clock/clock-WIP.jpg',
-          'https://storage.googleapis.com/maker-blog-assets/avoiding-robot/robot.jpg',
-          'https://storage.googleapis.com/maker-blog-assets/lego-led-clock/breadboard.jpg',
-          'https://storage.googleapis.com/maker-blog-assets/lego-led-clock/lego-clock.jpg',
+          'https://res.cloudinary.com/sofia-rivas/image/upload/c_scale,q_100,w_500/v1626315045/Blog/first-model_nlsm3a.png',
+          'https://res.cloudinary.com/sofia-rivas/image/upload/c_scale,q_100,w_400/v1626238388/Blog/maker-cat_wj7l9l.jpg',
+          'https://res.cloudinary.com/sofia-rivas/image/upload/c_scale,q_100,w_400/v1626238945/Blog/maker-topi_xjesnt.jpg',
+          'https://res.cloudinary.com/sofia-rivas/image/upload/c_scale,q_100,w_500/v1626315083/Blog/clock-WIP_mzhbnt.jpg',
+          'https://res.cloudinary.com/sofia-rivas/image/upload/c_scale,q_100,w_500/v1626315141/Blog/robot_wlp0u0.jpg',
+          'https://res.cloudinary.com/sofia-rivas/image/upload/c_scale,q_100,w_500/v1626315102/Blog/breadboard_uxlbft.jpg',
+          'https://res.cloudinary.com/sofia-rivas/image/upload/c_scale,q_100,w_500/v1626315115/Blog/lego-clock_msmtkz.jpg',
           ]}
         numCols={2}
       />
